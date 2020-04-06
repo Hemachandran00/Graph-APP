@@ -1,6 +1,7 @@
 # social_graph
 
-A new Flutter project.
+It is a mobile application created using Flutter .I used firebase to authenticate and firestore to store data and retrieve .
+Note : Download google jason and configure before running the app.
 
 ## Getting Started
 
